@@ -1,8 +1,8 @@
 <h1>Welcome to my profile</h1>
 
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning English 
-- 📫 Contact: <a href="https://www.linkedin.com/in/jucelio-delmondes-39bbbb179/">LinkedIn</a>
+- 🔭 <b>I’m currently working on personal projects</b>
+- 🌱 <b>I’m currently learning English</b>
+- 📫 <b>Contact: <a href="https://www.linkedin.com/in/jucelio-delmondes-39bbbb179/">LinkedIn</a></b>
 
 <h1>Technologies and platforms:</h1>
 
