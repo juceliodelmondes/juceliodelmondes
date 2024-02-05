@@ -2,7 +2,7 @@
 
 - 🔭 <b>I’m currently working on personal projects</b>
 - 🌱 <b>I’m currently learning English</b>
-- 📫 <b>Contact: <a href="https://www.linkedin.com/in/juceliodelmondes">LinkedIn</a></b>
+- 📫 <b>Contact: contact@juceliodelmondes.com</b>
 
 <h1>Technologies and platforms:</h1>
 
