@@ -1,8 +1,7 @@
 <h1>Welcome to my profile</h1>
 
-- 🔭 <b>I’m currently working on personal projects</b>
-- 🌱 <b>I’m currently learning English</b>
-- 📫 <b>Contact: contact@juceliodelmondes.com</b>
+- 🔭 <b>I’m currently working on personal projects and learning english</b>
+- 📫 <b>Professional contact: contact@juceliodelmondes.com</b>
 
 <h1>Technologies and platforms:</h1>
 
